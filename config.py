@@ -3,11 +3,11 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "352069"))
+API_ID = int(os.environ.get("API_ID", "39055352"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","35cea1c5e6384f57e914ac9ff5ffd1")
+API_HASH = os.environ.get("API_HASH","fb1790ef2cb249213ca6ff430839ca4d")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8309873942:AAHKpbr7GhXOiupMfpdBeNSsF2jBdH1dg")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8775066205:AAGTcWEQv6s5TD1yfFVWJtIpCtIjZdT6eck")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@extract_txt_new_bot")
 BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
