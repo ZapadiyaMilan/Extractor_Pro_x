@@ -7,7 +7,7 @@ API_ID = int(os.environ.get("API_ID", "39055352"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","fb1790ef2cb249213ca6ff430839ca4d")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8775066205:AAGTcWEQv6s5TD1yfFVWJtIpCtIjZdT6eck")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "9074079178:AAFrn3Km1VkG5eFCj10S4KJ7ievEwvtfHHE")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Shellby_limittted_bot")
 BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
